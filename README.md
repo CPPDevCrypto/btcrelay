@@ -11,10 +11,18 @@
 
 ## BTC Relay contract address and ABI:
 
-* [mainnet](http://btcrelay.surge.sh/mainnetStatus.html)
-* [testnet Morden](http://btcrelay.surge.sh/testnetContractStatus.html)
+* [mainnet](http://ellaism.org/btcrelay)
 
 The address and ABI is all that's needed to use BTC Relay, in addition to the API documentation below.
+
+## Become a Relayer
+
+You can support the BTC Relay network by becoming a relayer. Currently BTC Relay is outdated, and you need to use two forked packages to get it working.
+
+* https://github.com/ellaism/pyepm
+* https://github.com/ellaism/pybitcointools
+
+Follow the normal Python installation routines, after that, go to the `fetchd` folder and follow the instruction there.
 
 ## API
 
